@@ -20,4 +20,4 @@ spostamento 3: https://zoescenini.github.io/GIM/esercizio_1A/spostamento_3.html
 
 # esercizio_1B
 
-acceso spento 3: https://zoescenini.github.io/GIM/esercizio_1B.html
+movimento interattivo: https://zoescenini.github.io/GIM/esercizio_1B/indexA.html

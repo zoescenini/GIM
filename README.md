@@ -26,7 +26,7 @@ movimento interattivo: https://zoescenini.github.io/GIM/esercizio_1B/indexA.html
 Logo/parola: https://zoescenini.github.io/GIM/esercizio_2/LOGO.html
 
 # esercizio_3A
-l'idea di quella di riprendere il cartello delle rotonde svizzere  
+l'idea é quella di riprendere il cartello delle rotonde svizzere  
 orologio: https://zoescenini.github.io/GIM/esercizio_3A/orologio_analogico/index.html
 
 # esercizio_3B

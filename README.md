@@ -25,3 +25,5 @@ movimento interattivo: https://zoescenini.github.io/GIM/esercizio_1B/indexA.html
 # esercizio_2
 Logo/parola: https://zoescenini.github.io/GIM/esercizio_2/LOGO.html
 
+# esercizio_3A
+orologio: https://zoescenini.github.io/GIM/esercizio_3A/LOGO.html

@@ -23,5 +23,10 @@ spostamento 3: https://zoescenini.github.io/GIM/esercizio_1A/spostamento_3.html
 movimento interattivo: https://zoescenini.github.io/GIM/esercizio_1B/indexA.html
 
 # esercizio_2
-Logo/parola: https://zoescenini.github.io/GIM/esercizio_2.html
+Logo/parola: https://zoescenini.github.io/GIM/esercizio_2/LOGO.html
 
+# esercizio_3A
+orologio: https://zoescenini.github.io/GIM/esercizio_3A/orologio_analogico/index.html
+
+# esercizio_3B
+pioggia: https://zoescenini.github.io/GIM/esercizio_3B/index.html

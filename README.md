@@ -16,7 +16,7 @@ rotazione 3: https://zoescenini.github.io/GIM/esercizio_1A/rotazione_3.html
 
 spostamento 2: https://zoescenini.github.io/GIM/esercizio_1A/spostamento_2.html
 
-spostamento 3: https://zoescenini.github.io/GIM/esercizio_1A/spostamento_3.html
+spostamento 3: https://zoescenini.github.io/GIM/esercizio_1A/sposatmento_3.html
 
 # esercizio_1B
 

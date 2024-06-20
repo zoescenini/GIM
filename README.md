@@ -29,4 +29,4 @@ Logo/parola: https://zoescenini.github.io/GIM/esercizio_2/LOGO.html
 orologio: https://zoescenini.github.io/GIM/esercizio_3A/orologio_analogico/index.html
 
 # esercizio_3B
-pioggia: https://zoescenini.github.io/GIM/esercizio_3B/index.html
+pioggia: https://zoescenini.github.io/GIM/esercizio_3B/pioggia/index.html

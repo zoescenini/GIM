@@ -22,6 +22,9 @@ spostamento 3: https://zoescenini.github.io/GIM/esercizio_1A/sposatmento_3.html
 
 movimento interattivo: https://zoescenini.github.io/GIM/esercizio_1B/indexA.html
 
+# esercizio_1C
+commento: https://zoescenini.github.io/GIM/esercizio_1C
+
 # esercizio_2
 Logo/parola: https://zoescenini.github.io/GIM/esercizio_2/LOGO.html
 
